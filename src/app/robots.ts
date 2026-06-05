@@ -1,0 +1,15 @@
+import type { MetadataRoute } from "next";
+import { siteConfig } from "@/content/siteConfig";
+
+export const dynamic = "force-static";
+
+export default function robots(): MetadataRoute.Robots {
+  return {
+    rules: {
+      userAgent: "*",
+      allow: "/",
+      disallow: "/admin"
+    },
+    sitemap: `${siteConfig.seo.siteUrl}/sitemap.xml`
+  };
+}

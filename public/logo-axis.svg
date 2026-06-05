@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="357" viewBox="0 0 900 357" role="img" aria-labelledby="title desc">
+  <title id="title">Clínica Axis</title>
+  <desc id="desc">Logo da Clínica Axis - Geriatria e Reumatologia</desc>
+  <rect width="900" height="357" fill="#fffdf8"/>
+  <circle cx="160" cy="178" r="103" fill="none" stroke="#08264b" stroke-width="10"/>
+  <circle cx="160" cy="100" r="28" fill="#08264b"/>
+  <path d="M108 135c25 48 45 80 59 153 13-71 33-104 59-153-33 31-51 45-59 67-9-22-26-36-59-67Z" fill="#d39b2d"/>
+  <path d="M126 206c-14 31-19 56-13 82 17-18 30-41 39-73-6-9-13-17-26-9Z" fill="#08264b"/>
+  <text x="310" y="126" fill="#08264b" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="700">Clínica de Geriatria</text>
+  <text x="338" y="181" fill="#08264b" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="700">&amp; Reumatologia</text>
+  <text x="317" y="278" fill="#08264b" font-family="Georgia, 'Times New Roman', serif" font-size="120" font-style="italic" font-weight="700">Axis</text>
+  <path d="M510 293c81-14 145-72 216-160" fill="none" stroke="#d39b2d" stroke-width="14" stroke-linecap="round"/>
+</svg>

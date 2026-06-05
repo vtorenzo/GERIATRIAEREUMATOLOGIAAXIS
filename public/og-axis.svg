@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Clínica Axis em Campo Grande, RJ</title>
+  <desc id="desc">Preview social da Clínica Axis</desc>
+  <rect width="1200" height="630" fill="#fbfaf6"/>
+  <path d="M0 0h1200v18H0z" fill="#08264b"/>
+  <path d="M626 0h574v18H626z" fill="#d39b2d"/>
+  <circle cx="228" cy="300" r="128" fill="none" stroke="#08264b" stroke-width="12"/>
+  <circle cx="228" cy="202" r="34" fill="#08264b"/>
+  <path d="M164 244c33 60 57 101 74 190 17-88 42-131 75-190-40 38-62 56-75 84-12-28-34-46-74-84Z" fill="#d39b2d"/>
+  <path d="M185 334c-19 39-25 72-17 102 23-22 39-51 50-91-8-10-17-20-33-11Z" fill="#08264b"/>
+  <text x="420" y="214" fill="#08264b" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-weight="700">Clínica Axis</text>
+  <text x="420" y="285" fill="#08264b" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700">Geriatria e Reumatologia</text>
+  <text x="420" y="360" fill="#3e4d63" font-family="Arial, sans-serif" font-size="30">Atendimento médico em Campo Grande, RJ</text>
+  <text x="420" y="412" fill="#3e4d63" font-family="Arial, sans-serif" font-size="26">WhatsApp, Doctoralia, teleconsulta e atendimento domiciliar</text>
+  <rect x="420" y="462" width="260" height="58" rx="29" fill="#08264b"/>
+  <text x="455" y="500" fill="#ffffff" font-family="Arial, sans-serif" font-size="22" font-weight="700">Agendar consulta</text>
+  <rect x="704" y="462" width="230" height="58" rx="29" fill="#d39b2d"/>
+  <text x="742" y="500" fill="#08264b" font-family="Arial, sans-serif" font-size="22" font-weight="700">Campo Grande</text>
+</svg>
